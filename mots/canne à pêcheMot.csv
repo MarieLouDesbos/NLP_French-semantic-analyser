@@ -1,0 +1,171 @@
+e;eid;'name';type;w;'formated name'
+e;153395;'canne à pêche';1;262
+e;239128;'_COM';36;50
+e;223173;'_POL-POS';36;50
+e;2983124;'_SW';36;50
+e;128782;'fil';1;3276
+e;144267;'canne';1;801
+e;28718;'leurre';1;188
+e;93099;'plomb';1;2012
+e;145624;'pêche';1;2861
+e;69035;'clochette';1;162
+e;51905;'cuillère';1;1410
+e;26507;'pêcher';1;772
+e;20885;'émerillon';1;68
+e;135631;'crin';1;130
+e;106744;'moulinet';1;80
+e;233740;'fil>94609';1;32;'fil>textile'
+e;24646;'attraper';1;840
+e;241794;'_POL-NEUTRE';36;50
+e;14926081;'en:fishing rod';1;0
+e;7931;'accrocher';1;286
+e;14436157;'::>66:153395>25:26507';8;0;'canne à pêche [objet pour] pêcher'
+e;213544;'pêcher>78768';1;46;'pêcher>chasser'
+e;82676;'hameçon';1;232
+e;127000;'mouche';1;828
+e;254876;'_POL-POS_PC';36;50
+e;171870;'Nom:';4;50
+e;42064;'ver';1;568
+e;68467;'poisson';1;7124
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;143187;'pêcheur';1;454
+e;34814092;'dispositif pour pêcher';1;0
+e;49154;'rivière';1;3787
+e;2447;'truite';1;424
+e;60098;'appât';1;262
+e;223172;'_POL-NEG';36;50
+e;146881;'Nom:Fem+SG';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;172428;'Langage:populaire';18;50
+e;172435;'Langage:familier';18;50
+e;121129;'bouchon';1;614
+e;9780;'engin';1;358
+e;3228593;'wiki:@';444;0
+e;72115;'soulever';1;234
+e;222991;'émerillon>13701';1;4;'émerillon>technique'
+e;139243;'ligne';1;3844
+e;154203;'fil de pêche';1;70
+e;15110521;'en:fishing pole';1;0
+e;217734;'plomb>123836';1;4;'plomb>poids'
+e;233106;'canne>145624';1;50;'canne>pêche'
+e;241384;'cuillère>145624';1;50;'cuillère>pêche'
+e;37676;'flotteur';1;84
+e;86306;'prendre';1;3675
+e;15240652;'en:fish pole';1;0
+e;214194;'mouche>145624';1;2;'mouche>pêche'
+e;3575927;'Morpho:min';18;50
+e;213732;'bouchon>37676';1;50;'bouchon>flotteur'
+e;31003000;'canne à pêche à mouche';1;0
+e;14436158;'::>66:143187>24:14436156';8;0;'pêcheur [peut] pêcher [avec] canne à pêche'
+e;14916413;'Langue:français';18;50
+e;327472;'::>13:143187>29:26507';8;50;'pêcher [sujet] pêcheur'
+e;14436154;'::>14:108750>29:26507';8;0;'pêcher [objet] poissons'
+e;14436161;'::>16:153395>29:14436154';8;0;'pêcher [objet] poissons [avec] canne à pêche'
+e;14436156;'::>16:153395>29:26507';8;0;'pêcher [avec] canne à pêche'
+e;2949547;'prendre>24646';1;8;'prendre>attraper'
+e;328670;'::>13:74860>29:26507';8;50;'pêcher [sujet] homme'
+e;328038;'::>13:142124>29:26507';8;50;'pêcher [sujet] garçon'
+e;328376;'::>13:124094>29:26507';8;50;'pêcher [sujet] enfant'
+e;328302;'::>13:61490>29:26507';8;50;'pêcher [sujet] femme'
+e;327517;'::>13:137506>29:26507';8;50;'pêcher [sujet] quelqu'un'
+e;327844;'::>13:116477>29:26507';8;50;'pêcher [sujet] personne'
+e;244263;'::>13:143187>29:26507>16';9;50;'Avec quoi un pêcheur pourrait pêcher ?'
+e;167533;'::>13:74860>29:26507>16';9;50;'Avec quoi un homme pourrait pêcher ?'
+e;166121;'::>13:142124>29:26507>16';9;50;'Avec quoi un garçon pourrait pêcher ?'
+e;162170;'::>13:137506>29:26507>16';9;50;'Avec quoi quelqu'un pourrait pêcher ?'
+e;164267;'::>13:124094>29:26507>16';9;50;'Avec quoi une enfant pourrait pêcher ?'
+e;163730;'::>13:61490>29:26507>16';9;50;'Avec quoi une femme pourrait pêcher ?'
+e;161004;'::>13:116477>29:26507>16';9;50;'Avec quoi une personne pourrait pêcher ?'
+e;15014212;'::>14:68467>29:26507';8;0;'pêcher [objet] poisson'
+e;17628678;'::>14:110397>29:26507';8;0;'pêcher [objet] ablette'
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;50233540;'_INFO-WORDREF-YES';36;50
+e;16318197;'Canne à pêche';777;0
+e;14436160;'::>66:14436159>155:153395';8;0;'pêcheur [peut] pêcher [objet] poissons [utilisant] canne à pêche'
+e;14436159;'::>66:143187>24:14436154';8;0;'pêcheur [peut] pêcher [objet] poissons'
+e;254877;'_POL-NEUTRE_PC';36;50
+e;248198;'_SEX_NO';36;50
+e;141253;'perche';1;162
+e;48929;'percher';1;72
+e;145682;'ferrer';1;128
+e;42456;'bambou';1;150
+e;11183;'Roseau';1;50
+e;139656;'roseau';1;98
+e;141205;'Poisson';1;74
+e;7347;'espadon';1;62
+e;113400;'harpon';1;70
+e;3200;'Iliade';1;190
+e;143346;'Strabon';1;56
+e;127368;'pêche sportive';1;50
+e;123977;'maritime';1;2765
+e;584414;'Espadon';1;0
+e;2575012;'Canne';1;0
+e;152487;'Loisir';1;52
+e;49318;'loisir';1;784
+e;37303;'Mer';1;2675
+e;146105;'mer';1;9352
+e;2369036;'Bambou';1;50
+e;2037866;'harponnés';2;0
+e;10157985;'Harpon';1;0
+e;254878;'_POL-NEG_PC';36;50
+e;28453;'bonheur';1;2806
+e;26976;'vert';1;3436
+e;227874;'scion>50567';1;50;'scion>agriculture'
+e;252085;'gaule>119244';1;78;'gaule>érection'
+e;252083;'gaule>141253';1;50;'gaule>perche'
+e;317329;'_POLIT_7NOPOL';36;50
+e;317322;'_POLIT_1ECO';36;50
+e;269561;'sans couleur';1;50
+e;50889;'gris';1;2610
+e;145382;'orange';1;2233
+e;155346;'vert clair';1;150
+e;11137482;':r9998215';10;0
+e;3911939;'dbnary:fra:__ws_2_canne_à_pêche__nom__1';444;0
+e;3974934;'dbnary:fra:__ws_1_canne_à_pêche__nom__1';444;0
+e;265185;'pêche>7103';1;50;'pêche>tonus'
+e;265183;'pêche>152965';1;50;'pêche>coup de poing'
+e;246990;'pêche>40056';1;50;'pêche>couleur'
+e;265184;'pêche>127270';1;50;'pêche>merde'
+e;213540;'pêche>87286';1;82;'pêche>fruit'
+e;317324;'_POLIT_3PS';36;50
+e;317325;'_POLIT_4MD';36;50
+e;317326;'_POLIT_5UMP';36;50
+e;317323;'_POLIT_2PG';36;50
+e;317327;'_POLIT_6FN';36;50
+e;44755;'lancer';1;2847
+e;113767;'monter';1;2333
+e;37168;'able';1;56
+e;14918077;'en:able';1;0
+e;96339;'gaule';1;76
+e;56663;'albe';1;50
+e;168191;'rouget-grondin';1;50
+e;67049;'grondin';1;56
+e;232680;'bibelet';1;50
+e;5334011;'attraper un poisson';1;0
+e;14734939;'pêche autorisée';1;0
+e;318769;'pêche au vif';1;50
+e;15953386;'pêche interdite';1;0
+e;14571090;'boîte à asticot';1;0
+e;69145;'scion';1;68
+e;252084;'gaule>153395';1;50;'gaule>canne à pêche'
+e;213541;'action de pêcher';1;50
+e;213542;'pêche>213541';1;122;'pêche>action de pêcher'
+e;227875;'scion>153395';1;50;'scion>canne à pêche'
+e;159613;'pêche en rivière';1;50
+e;17628674;'::>16:153395>29:15014212';8;0;'pêcher [objet] poisson [avec] canne à pêche'
+e;17628680;'::>16:153395>29:17628678';8;0;'pêcher [objet] ablette [avec] canne à pêche'
+e;17401531;'::>66:143187>24:15014212';8;0;'pêcheur [peut] pêcher [objet] poisson'
+e;17628675;'::>66:17401531>155:153395';8;0;'pêcheur [peut] pêcher [objet] poisson [utilisant] canne à pêche'
+e;17628681;'::>66:143187>24:17628678';8;0;'pêcheur [peut] pêcher [objet] ablette'
+e;17628682;'::>66:17628681>155:153395';8;0;'pêcheur [peut] pêcher [objet] ablette [utilisant] canne à pêche'
+e;439411;'pêcher>146882';1;50;'pêcher>Ver:Inf'
+e;2609;'levier';1;126
+e;179189;'bras de levier';1;50
+e;239081;'Wiimote';1;50
+e;271238;'Seul au monde';666;50
+e;38828;'cuiller';1;218
+e;154465;'pêche à la ligne';1;210
+e;241383;'cuillère>674';1;50;'cuillère>grenade'
